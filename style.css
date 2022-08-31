@@ -33,6 +33,8 @@ main h2 {
 
 .my-style {
     color:blue;
+    background-color: azure;
+    padding: 3px;
 }
 
 .code-ninja-style {
